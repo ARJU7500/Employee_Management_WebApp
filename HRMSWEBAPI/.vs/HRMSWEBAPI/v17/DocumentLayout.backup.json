@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\statemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\rolemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\permissionmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\permissionmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\employeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\employeemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\documentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\documentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\departmentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\departmentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\deginationmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\deginationmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\countrymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\countrymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\companymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\companymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\citymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\citymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|d:\\full stack application core\u002Bangular\u002Bsql\\employee management system\\employee_management_webapp\\hrmswebapi\\models\\master\\branchmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBFD663-2937-4AB2-AFE9-08A76E8EBAF8}|HRMSWEBAPI.csproj|solutionrelative:models\\master\\branchmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\PermissionMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\PermissionMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\PermissionMaster.cs",
+              "RelativeToolTip": "Models\\Master\\PermissionMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:46:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\RoleMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\RoleMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\RoleMaster.cs",
+              "RelativeToolTip": "Models\\Master\\RoleMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:45:39.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\StateMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\StateMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\StateMaster.cs",
+              "RelativeToolTip": "Models\\Master\\StateMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:46:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\EmployeeMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\EmployeeMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\EmployeeMaster.cs",
+              "RelativeToolTip": "Models\\Master\\EmployeeMaster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:41:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\DocumentMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\DocumentMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\DocumentMaster.cs",
+              "RelativeToolTip": "Models\\Master\\DocumentMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:43:25.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\DepartmentMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\DepartmentMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\DepartmentMaster.cs",
+              "RelativeToolTip": "Models\\Master\\DepartmentMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:44:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeginationMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\DeginationMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\DeginationMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\DeginationMaster.cs",
+              "RelativeToolTip": "Models\\Master\\DeginationMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:45:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\CountryMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\CountryMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\CountryMaster.cs",
+              "RelativeToolTip": "Models\\Master\\CountryMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:46:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\CompanyMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\CompanyMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\CompanyMaster.cs",
+              "RelativeToolTip": "Models\\Master\\CompanyMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:43:55.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\CityMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\CityMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\CityMaster.cs",
+              "RelativeToolTip": "Models\\Master\\CityMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:44:31.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BranchMaster.cs",
+              "DocumentMoniker": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\BranchMaster.cs",
+              "RelativeDocumentMoniker": "Models\\Master\\BranchMaster.cs",
+              "ToolTip": "D:\\full stack Application core\u002Bangular\u002Bsql\\employee management system\\Employee_Management_WebApp\\HRMSWEBAPI\\Models\\Master\\BranchMaster.cs",
+              "RelativeToolTip": "Models\\Master\\BranchMaster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T21:42:40.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
