@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HRMSWEBAPI.Models
 {
     [Table("PERMISSION_MASTER")]
     public class PermissionMaster
     {
+        [Key]
         public int PermissionId { get; set; }
         public string? PermissionName { get; set; }
         public int RoleId { get; set; }

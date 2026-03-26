@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HRMSWEBAPI.Models
 {
     [Table("DEPARTMENT_MASTER")]
     public class DepartmentMaster
     {
+        [Key]
         public int DeptId { get; set; }
         public string? DeptName { get; set; }
         public string? DeptCode { get; set; }
@@ -16,5 +18,8 @@ namespace HRMSWEBAPI.Models
         public string? CreatedOn { get; set; }
         public string? UpdatedBy { get; set; }
         public string? UpdatedOn { get; set; }
+        // Navigation
+        public BranchMaster? BranchMaster { get; set; }
+        public ICollection<DeginationMaster>? Designations { get; set; }
     }
 }

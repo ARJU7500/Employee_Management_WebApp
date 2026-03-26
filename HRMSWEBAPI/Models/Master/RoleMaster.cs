@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HRMSWEBAPI.Models
 {
     [Table("ROLE_MASTER")]
     public class RoleMaster
     {
+        [Key]
         public int RoleId { get; set; }
         public string? RoleName { get; set; }
         public int CompanyId { get; set; }

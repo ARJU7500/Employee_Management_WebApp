@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HRMSWEBAPI.Models
 {
     [Table("BRANCH_MASTER")]
     public class BranchMaster
     {
+        [Key]
         public int BranchId { get; set; }
         public int CompanyId { get; set; }
         public string? BranchName { get; set; }
@@ -27,5 +29,14 @@ namespace HRMSWEBAPI.Models
         public string? CreatedOn { get; set; }
         public string? UpdatedBy { get; set; }
         public string? UpdatedOn { get; set; }
+        // Navigation
+        public CompanyMaster? CompanyMaster { get; set; }
+        public CountryMaster? CountryMaster { get; set; }
+        public StateMaster? StateMaster { get; set; }
+        public CityMaster? CityMaster { get; set; }
+
+        public ICollection<DepartmentMaster>? Departments { get; set; }
+        public ICollection<DocumentMaster>? Documents { get; set; }
+    
     }
 }

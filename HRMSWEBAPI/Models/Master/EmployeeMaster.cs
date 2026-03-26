@@ -1,10 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HRMSWEBAPI.Models
 {
     [Table("EMPLOYEE_MASTER")]
     public class EmployeeMaster
     {
+        [Key]
         public int EmployeeId { get; set; }
         public string? EmployeeName { get; set; }
         public string? EmployeeCode { get; set; }
@@ -35,5 +37,8 @@ namespace HRMSWEBAPI.Models
         public string? CreatedOn { get; set; }
         public string? UpdatedBy { get; set; }
         public string? UpdatedOn { get; set; }
+        // Navigation
+        public DeginationMaster? DesignationMaster { get; set; }
+        public ICollection<DocumentMaster>? Documents { get; set; }
     }
 }

@@ -1,0 +1,192 @@
+[
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DeginationMasterController",
+    "Method": "deleteDesigationData",
+    "RelativePath": "api/DeginationMaster/deleteDesigationData/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DeginationMasterController",
+    "Method": "getAllDeginationData",
+    "RelativePath": "api/DeginationMaster/getAllDegination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DeginationMasterController",
+    "Method": "SaveDesignationData",
+    "RelativePath": "api/DeginationMaster/saveDesinationData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_deginationMaster",
+        "Type": "HRMSWEBAPI.Models.DeginationMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DeginationMasterController",
+    "Method": "UpdateDesigationData",
+    "RelativePath": "api/DeginationMaster/updateDesignationData",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_deginationMaster",
+        "Type": "HRMSWEBAPI.Models.DeginationMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DepartmentMasterController",
+    "Method": "saveDepartMentData",
+    "RelativePath": "api/DepartmentMaster/addDepartmentData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_departmentMaster",
+        "Type": "HRMSWEBAPI.Models.DepartmentMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DepartmentMasterController",
+    "Method": "deleteDepartmentData",
+    "RelativePath": "api/DepartmentMaster/deleteDepartmentData/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DepartmentMasterController",
+    "Method": "selectAllDepartments",
+    "RelativePath": "api/DepartmentMaster/getAllDepartments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.DepartmentMasterController",
+    "Method": "UpdateDepartmentMasterData",
+    "RelativePath": "api/DepartmentMaster/updateDepartmentData",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_departmentMaster",
+        "Type": "HRMSWEBAPI.Models.DepartmentMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.EmployeeMasterController",
+    "Method": "SaveEmployeeData",
+    "RelativePath": "api/EmployeeMaster/addEmployeeData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_employeeMaster",
+        "Type": "HRMSWEBAPI.Models.EmployeeMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.EmployeeMasterController",
+    "Method": "DeleteEmployeData",
+    "RelativePath": "api/EmployeeMaster/deleteEmployeeData/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.EmployeeMasterController",
+    "Method": "getAllEmployeeData",
+    "RelativePath": "api/EmployeeMaster/EmployeeData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.EmployeeMasterController",
+    "Method": "LoginEmployee",
+    "RelativePath": "api/EmployeeMaster/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_loginDto",
+        "Type": "HRMSWEBAPI.Models.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HRMSWEBAPI.Controllers.Master.EmployeeMasterController",
+    "Method": "updateEmployeeData",
+    "RelativePath": "api/EmployeeMaster/UpdateEmployeeData",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_employeeMaster",
+        "Type": "HRMSWEBAPI.Models.EmployeeMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
